@@ -101,5 +101,6 @@ run  `helm history [RELEASE]` the command. For example rollback `localstack` rel
     localstack-charts       https://localstack.github.io/helm-charts 
 
 ```
-
+13. List all installed charts in k8s, use `helm list --all-namespaces`:
+14. To list releases, show theis statuses or history, add `--namespace [NAMESPACE]`
 ## Intermediate - Developing charts
