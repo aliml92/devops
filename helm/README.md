@@ -1,6 +1,6 @@
 # Helm Cheatsheet
 
-# Basic - Working with helm command
+## Basic - Working with helm command
 1. Print out all helm charts added to local machine:        
 ```
     helm search repo
