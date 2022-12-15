@@ -1,5 +1,0 @@
-{
-    "yaml.schemas": {
-        "kubernetes://schema/apps/v1@deployment": "file:///home/ali/mySpec/devops/kubernetes/storage/how-to-use-volumes-in-k8s/deployment.yaml"
-    }
-}
